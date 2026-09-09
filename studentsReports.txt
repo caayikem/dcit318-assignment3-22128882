@@ -1,0 +1,48 @@
+Kwame Mensah (ID: 8801): Score = 84, Grade = A
+Ama Serwaa (ID: 8802): Score = 72, Grade = B
+Kofi Boateng (ID: 8803): Score = 58, Grade = D
+Akosua Agyapong (ID: 8804): Score = 95, Grade = A
+Abena Pokua (ID: 8806): Score = 88, Grade = A
+Kwaku Addo (ID: 8807): Score = 64, Grade = C
+Yaa Asantewaa (ID: 8808): Score = 91, Grade = A
+Kojo Frimpong (ID: 8809): Score = 76, Grade = B
+Afia Amankwah (ID: 8810): Score = 53, Grade = D
+Kwabena Badu (ID: 8812): Score = 67, Grade = C
+Akua Donkor (ID: 8813): Score = 49, Grade = F
+Fiifi Baidoo (ID: 8814): Score = 79, Grade = B
+Adwoa Safo (ID: 8815): Score = 85, Grade = A
+Kweku Baah (ID: 8816): Score = 62, Grade = C
+Nana Ama McBrown (ID: 8817): Score = 90, Grade = A
+Kofi Annan (ID: 8818): Score = 73, Grade = B
+Maame Esi (ID: 8819): Score = 55, Grade = D
+Nii Armah Tagoe (ID: 8820): Score = 83, Grade = A
+Naa Koshie Quaye (ID: 8821): Score = 68, Grade = C
+Emmanuel Lartey (ID: 8822): Score = 47, Grade = F
+Ebenezer Lamptey (ID: 8823): Score = 77, Grade = B
+Priscilla Mensah (ID: 8824): Score = 89, Grade = A
+Nii Laryea (ID: 8825): Score = 59, Grade = D
+Naa Oyo Quartey (ID: 8826): Score = 92, Grade = A
+Samuel Abbey (ID: 8827): Score = 66, Grade = C
+Dodzi Agbetor (ID: 8828): Score = 74, Grade = B
+Kafui Dogbe (ID: 8829): Score = 82, Grade = A
+Mawusi Amedume (ID: 8830): Score = 61, Grade = C
+Elikem Kotoka (ID: 8831): Score = 94, Grade = A
+Sena Gbeho (ID: 8832): Score = 45, Grade = F
+Delali Tsikata (ID: 8833): Score = 78, Grade = B
+Fafali Kpodo (ID: 8834): Score = 86, Grade = A
+Selasie Dzisah (ID: 8835): Score = 51, Grade = D
+Kekeli Avoke (ID: 8836): Score = 69, Grade = C
+Aminu Mohammed (ID: 8837): Score = 87, Grade = A
+Fatima Al-Hassan (ID: 8838): Score = 75, Grade = B
+Haruna Iddrisu (ID: 8839): Score = 63, Grade = C
+Zainab Yakubu (ID: 8840): Score = 93, Grade = A
+Mustapha Hamid (ID: 8841): Score = 56, Grade = D
+Rashida Bawa (ID: 8842): Score = 48, Grade = F
+Abdul-Rahman Issah (ID: 8843): Score = 80, Grade = A
+Mariama Salifu (ID: 8844): Score = 71, Grade = B
+Inusah Fuseini (ID: 8845): Score = 65, Grade = C
+Habiba Sulemana (ID: 8846): Score = 84, Grade = A
+Baba Rahman (ID: 8847): Score = 57, Grade = D
+Samira Bawumia (ID: 8848): Score = 96, Grade = A
+Fuseini Adams (ID: 8849): Score = 41, Grade = F
+Ayisha Abubakar (ID: 8850): Score = 70, Grade = B

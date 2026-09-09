@@ -1,0 +1,48 @@
+8801,Kwame Mensah,84
+8802,Ama Serwaa,72
+8803,Kofi Boateng,58
+8804,Akosua Agyapong,95
+8806,Abena Pokua,88
+8807,Kwaku Addo,64
+8808,Yaa Asantewaa,91
+8809,Kojo Frimpong,76
+8810,Afia Amankwah,53
+8812,Kwabena Badu,67
+8813,Akua Donkor,49
+8814,Fiifi Baidoo,79
+8815,Adwoa Safo,85
+8816,Kweku Baah,62
+8817,Nana Ama McBrown,90
+8818,Kofi Annan,73
+8819,Maame Esi,55
+8820,Nii Armah Tagoe,83
+8821,Naa Koshie Quaye,68
+8822,Emmanuel Lartey,47
+8823,Ebenezer Lamptey,77
+8824,Priscilla Mensah,89
+8825,Nii Laryea,59
+8826,Naa Oyo Quartey,92
+8827,Samuel Abbey,66
+8828,Dodzi Agbetor,74
+8829,Kafui Dogbe,82
+8830,Mawusi Amedume,61
+8831,Elikem Kotoka,94
+8832,Sena Gbeho,45
+8833,Delali Tsikata,78
+8834,Fafali Kpodo,86
+8835,Selasie Dzisah,51
+8836,Kekeli Avoke,69
+8837,Aminu Mohammed,87
+8838,Fatima Al-Hassan,75
+8839,Haruna Iddrisu,63
+8840,Zainab Yakubu,93
+8841,Mustapha Hamid,56
+8842,Rashida Bawa,48
+8843,Abdul-Rahman Issah,80
+8844,Mariama Salifu,71
+8845,Inusah Fuseini,65
+8846,Habiba Sulemana,84
+8847,Baba Rahman,57
+8848,Samira Bawumia,96
+8849,Fuseini Adams,41
+8850,Ayisha Abubakar,70

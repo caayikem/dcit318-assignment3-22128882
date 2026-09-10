@@ -8,8 +8,8 @@ namespace gradingSystem
     {
         static void Main(string[] args)
         {
-            string inputFilePath = @"C:\Users\cosma\source\repos\dcit318-assignment3-22128882\studentsScores.txt";
-            string outputFilePath = @"C:\Users\cosma\source\repos\dcit318-assignment3-22128882\studentsReports.txt";
+            string inputFilePath = "studentsScores.txt";
+            string outputFilePath = "studentsReports.txt";
 
         
 

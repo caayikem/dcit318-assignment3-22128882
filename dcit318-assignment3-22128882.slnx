@@ -3,4 +3,5 @@
   <Project Path="gradingSystem/gradingSystem.csproj" Id="bde25541-c72c-43dc-8fc8-60a110b7bf74" />
   <Project Path="healthcareSystem/healthcareSystem.csproj" />
   <Project Path="inventoryManagementSystem/inventoryManagementSystem.csproj" Id="d3c78eff-9d26-4aec-b74e-4f713a5754a6" />
+  <Project Path="inventoryRecordSystem/inventoryRecordSystem.csproj" Id="babe83c4-9503-4aa0-85a5-2b49970f3cbd" />
 </Solution>
